@@ -1,0 +1,5 @@
+<mj-section background-color="white">
+  <mj-column>
+    <mj-image href="https://bankless.com" src="https://i.postimg.cc/65bzGzXW/Header-Daily-Brief-Metamask.png" alt="Daily Brief banner image, sponsored by Metamask" padding="24px" />
+  </mj-column>
+</mj-section>

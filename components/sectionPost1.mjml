@@ -1,0 +1,25 @@
+<mj-section background-color="white">
+  <mj-column>
+    <mj-text color="red" align="center" font-weight="bold" font-size="18px" padding-bottom="0px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      NEED TO KNOW
+    </mj-text>
+    <mj-text padding="0px 14px 14px 14px" align="center" font-weight="700" font-size="45px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      Binance Nearing DOJ Deal?
+    </mj-text>
+    <mj-image padding-bottom="0px" src="https://i.postimg.cc/cC4Mvtkt/Section-Binance.png" alt="Image of CZ, Coindesk logo and Sam Altman side by side" />
+    <mj-text font-size="17px" line-height="30px">
+      <p>
+      <ol>
+        <li>
+          <b>4️⃣ CZ Says 4.</b> Binance is <u>reportedly nearing a resolution with the DOJ</u> that would come with a $4 billion fine and chances of criminal charges for CZ.
+        <li>
+          <b>🤑 CoinDesk gets sold.</b> Little-known crypto exchange Bullish has <u>bought CoinDesk from DCG in an all-cash deal.</u>
+        </li>
+        <li>
+          <b>🤖 Tech waits for OpenAI resolution.</b> Sam Altman's surprise firing has <u>upended Silicon Valley.</u> Will threatened resignations of 90% of the staff bring him back to power?
+        </li>
+      </ol>
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>

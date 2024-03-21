@@ -1,0 +1,16 @@
+<mj-section background-color="white">
+  <mj-column>
+    <mj-text padding-bottom="20px" align="center" color="#a0a0a0" font-weight="bold" font-size="17px" line-height="24px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      FRIEND & SPONSOR: ASYMETRIX
+    </mj-text>
+    <mj-image padding-bottom="0px" src="https://i.postimg.cc/G2jx3xK1/Section-Sponsor-Asymetrix.png" alt="Ad image for Asymetrix Protocol 'Add Excitement To The Routine ETH Staking'" />
+    <mj-text font-size="17px" line-height="25px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      <p>
+        <b>Explore Asymetrix V2 –</b> A decentralized protocol that maximizes your stETH earnings through asymmetric yield distribution from staking. With V2, you can get up to a 4x BOOST in rewards of the protocol’s initial token distribution, 4x BOOST odds in weekly draws, and the opportunity to join Mini-Pools.
+      </p>
+    </mj-text>
+    <mj-button>
+      Discover Asymetrix V2
+    </mj-button>
+  </mj-column>
+</mj-section>

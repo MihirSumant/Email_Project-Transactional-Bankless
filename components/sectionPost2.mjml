@@ -1,0 +1,69 @@
+<mj-section background-color="white" padding-bottom="0px">
+  <mj-column>
+    <mj-text color="red" align="center" font-weight="bold" font-size="18px" padding-bottom="0px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      TODAY IN MARKETS
+    </mj-text>
+    <mj-text padding="0px 14px 14px 14px" align="center" font-weight="700" font-size="45px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      DeFi Sneak Attack
+    </mj-text>
+    <mj-text font-size="17px" line-height="25px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      <p>
+        <b>📊 dYdX Attacked:</b> Mass liquidations hit dYdX’s V3 Yearn Finance (YFI) market over the weekend. YFI is down 40%, dYdX’s insurance fund was forced to pay out $9M, and the exchange’s founder is calling it an attack!
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="white" padding="0px">
+  <mj-group>
+    <mj-column>
+      <mj-text font-size="15px">
+        <span class="lighter-text fixed">Prices as of 4pm ET</span>
+      </mj-text>
+      <mj-text font-size="17px">
+        <b>Crypto</b> <span class="lighter-text">$1.42T</span>
+      </mj-text>
+      <mj-text font-size="17px">
+        <b>BTC</b> <span class="lighter-text">$37,489</span>
+      </mj-text>
+      <mj-text font-size="17px">
+        <b>ETH</b> <span class="lighter-text">$2,028</span>
+      </mj-text>
+    </mj-column>
+    <mj-column>
+      <mj-text align="right" font-size="15px">
+        <span class="lighter-text">24hr</span>
+      </mj-text>
+      <mj-text align="right" font-weight="bold" color="green" font-size="17px">
+        ↗ 0.7%
+      </mj-text>
+      <mj-text align="right" font-weight="bold" color="green" font-size="17px">
+        ↗ 1.3%
+      </mj-text>
+      <mj-text align="right" font-weight="bold" color="green" font-size="17px">
+        ↗ 2.2%
+      </mj-text>
+    </mj-column>
+    <mj-column>
+      <mj-text align="right" font-size="15px">
+        <span class="lighter-text">7d</span>
+      </mj-text>
+      <mj-text align="right" font-weight="bold" color="green" font-size="17px">
+        ↗ 1.4%
+      </mj-text>
+      <mj-text align="right" font-weight="bold" color="green" font-size="17px">
+        ↗ 2.6%
+      </mj-text>
+      <mj-text align="right" font-weight="bold" color="red" font-size="17px">
+        ↘ 1.8%
+      </mj-text>
+    </mj-column>
+  </mj-group>
+
+</mj-section>
+<mj-section background-color="white">
+  <mj-column>
+    <mj-button>
+      Unlock Today's Full Market Analysis
+    </mj-button>
+  </mj-column>
+</mj-section>

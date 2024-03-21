@@ -1,0 +1,21 @@
+<mj-section background-color="white">
+  <mj-column>
+    <mj-text color="red" align="center" font-weight="bold" font-size="18px" padding-bottom="0px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      Latest Podcast
+    </mj-text>
+    <mj-text padding="14px" align="center" font-weight="700" font-size="45px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      Unpacking the OpenAI Drama
+    </mj-text>
+    <mj-image padding-bottom="0px" src="https://i.postimg.cc/59nSZpjB/Section-Podcast.png" alt="Image of Podcast Episode with David and Ryan side by side" />
+    <mj-text font-size="17px" line-height="25px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      <p>
+        Sam Altman was fired as CEO of OpenAI, joining Microsoft this morning and sending the internet into a spiral. What does this mean? </p>
+      <p>
+        <b>Here's what you need to know about the multi-chain market 👇</b>
+      </p>
+    </mj-text>
+    <mj-button>
+      Watch the Full Episode
+    </mj-button>
+  </mj-column>
+</mj-section>

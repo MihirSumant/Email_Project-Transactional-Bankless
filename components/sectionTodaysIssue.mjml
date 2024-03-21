@@ -1,0 +1,42 @@
+<mj-section background-color="white" border-bottom="1px solid #e5eff5">
+  <mj-column>
+    <mj-text padding="14px" align="center" font-weight="700" font-size="45px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      Binance Nearing DOJ Deal?
+    </mj-text>
+    <mj-text css-class="links-black-undrlined" padding-bottom="20px" align="center" font-size="17px" line-height="24px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      Published on Nov 20, 2023
+      <br>
+      <a href="https://bankless.ghost.io/r/956330f5?m=edf207ed-f1aa-43af-a6ab-b503713ad5f9">View in Browser</a>
+    </mj-text>
+    <mj-text css-class="bolden" font-size="17px" line-height="30px" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol">
+      <strong>gm Bankless Nation,</strong>
+      <br>
+      CZ might want to stop saying "4" pretty soon.
+
+      <p><b><i>Today's issue</i>⬇️</b>
+      <ol>
+        <li>
+          <strong>☀️ Need to Know: Binance Deal?</strong>
+          <br>
+          Binance's DOJ problem sounds expensive.
+        </li>
+        <li>
+          <strong>📊 Today in Markets: <i><u>DeFi Sneak Attack</u></i></strong>
+          <br>
+          Mass liquidations hit dYdX.
+        </li>
+        <li>
+          <strong>🗞️ Analysis: <i><u>Magic Eden's Moment</u></i></strong>
+          <br>
+          Is Magic Eden an OpenSea killer?
+        </li>
+        <li>
+          <strong>🎧 Latest Pod: <i><u>Unpacking OpenAI</u></i></strong>
+          <br>
+          Silicon Valley's living nightmare.
+        </li>
+      </ol>
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>

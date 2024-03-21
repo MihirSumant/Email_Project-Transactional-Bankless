@@ -1,0 +1,55 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+        font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+      }
+
+      .lighter-text {
+        opacity: 0.7;
+      }
+
+      .fixed {
+        white-space: nowrap;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .links-black-undrlined a {
+        color: black;
+      }
+
+      .links-grey-undrlined a {
+        color: #738a94;
+      }
+
+      .links-italicize a {
+        font-style: italic;
+      }
+
+      .bolden span {
+        font-weight: 700;
+      }
+    </mj-style>
+    <mj-attributes>
+      <mj-button background-color="black" font-weight="bold" inner-padding="15px 25px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="white">
+    <mj-include path="./components/headerAsymetrix.mjml" />
+    <mj-include path="./components/sectionTodaysIssue.mjml" />
+    <mj-include path="./components/sponsorButton.mjml" />
+    <mj-include path="./components/dotDivider.mjml" />
+    <mj-include path="./components/sectionPost1.mjml" />
+    <mj-include path="./components/dotDivider.mjml" />
+    <mj-include path="./components/sectionPost2.mjml" />
+    <mj-include path="./components/dotDivider.mjml" />
+    <mj-include path="./components/sectionPost3.mjml" />
+    <mj-include path="./components/sectionPostSponsor.mjml" />
+    <mj-include path="./components/dotDivider.mjml" />
+    <mj-include path="./components/sectionPost4.mjml" />
+    <mj-include path="./components/dotDivider.mjml" />
+    <mj-include path="./components/sectionBecomeCitizen.mjml" />
+    <mj-include path="./components/footer.mjml" />
+  </mj-body>
+</mjml>

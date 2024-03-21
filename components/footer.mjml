@@ -1,0 +1,11 @@
+<mj-section background-color="white">
+  <mj-column>
+    <mj-text css-class="links-grey-undrlined" align="center" font-size="13px" line-height="18px" color="#738a94">
+      <p><strong><u><a href="https://bankless.ghost.io/r/ef920a43?m=edf207ed-f1aa-43af-a6ab-b503713ad5f9">Manage your account</a></u></strong></p>
+      <p><strong>Not financial or tax advice.</strong> Bankless content is strictly educational and is not investment advice or a solicitation to buy or sell any assets or to make any financial decisions. This newsletter is not tax advice. Talk to your accountant. Do your own research.</p>
+      <p><strong>Disclosure.</strong> From time-to-time we may add links in this newsletter to products we use. We may receive commission if you make a purchase through one of these links. Additionally, the Bankless team hold crypto assets.</p>
+      <p>See our <strong><u><a href="https://bankless.ghost.io/r/5f59af5c?m=edf207ed-f1aa-43af-a6ab-b503713ad5f9">Investment Disclosures</a></u></strong> | <strong><u><a href="https://bankless.ghost.io/r/328edd5d?m=edf207ed-f1aa-43af-a6ab-b503713ad5f9">Terms & Conditions</a></u></strong> | <strong><u><a href="https://bankless.ghost.io/r/9d6a51d4?m=edf207ed-f1aa-43af-a6ab-b503713ad5f9">Privacy Policy</a></u></strong></p>
+      <p>Bankless © 2023 – <u><a href="https://bankless.ghost.io/unsubscribe/?uuid=edf207ed-f1aa-43af-a6ab-b503713ad5f9&newsletter=86d799a2-9819-4bb5-b7a8-31506e99baca">Unsubscribe</a></u></p>
+    </mj-text>
+  </mj-column>
+</mj-section>

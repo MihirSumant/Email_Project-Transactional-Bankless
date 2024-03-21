@@ -1,0 +1,12 @@
+<mj-section background-color="white">
+  <mj-column>
+    <mj-text font-size="17px" line-height="25px">
+      <b><u>Sponsor: Asymetrix</u></b>
+      <br>
+      Empower your stETH with Asymetrix V2's enhanced core features!
+    </mj-text>
+    <mj-button href="https://bankless.ghost.io/r/f5955bb6?m=edf207ed-f1aa-43af-a6ab-b503713ad5f9">
+      Discover Asymetrix V2
+    </mj-button>
+  </mj-column>
+</mj-section>
